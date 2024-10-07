@@ -6,5 +6,3 @@ As I look to gain knowledge in Machine Learning through reading papers and tryin
 # First paper - The Transformers paper, of course!
 Currently working on the most famous and, probably, important paper to date: the Transformers paper by *[Vaswani et al, 2017, "Attention is all you need"](https://arxiv.org/pdf/1706.03762)*.<br>
 Toughest part will be not having the resources to actually train the model exactly as described in the paper, but will get back to it eventually.
-
-[Link to colab notebook](https://colab.research.google.com/drive/1vzuvD2lRQoqVtv2yKor1GYpytmpDAS18?usp=sharing).
